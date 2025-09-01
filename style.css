@@ -53,7 +53,7 @@ font: 26px 'VT323', monospace; text-align:justify; display: none;}
 
 #f17 {position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; display: none; align-items: center; justify-content: center; flex-direction: column;}
 .flowers {width: 150px; height: 150px;  background: url(https://i.imgur.com/HP32hGe.png); background-size: cover;}
-.isa {width: 200px; height: 200px; background: url(https://i.imgur.com/7OGfF95.png); background-size: cover;}
+.isa {width: 200px; height: 200px; background: url(https://i.pinimg.com/736x/a3/23/a2/a323a2f9e8afc458a2edbabb45cc2d4a.jpg); background-size: cover;}
 
 #f18 {position: absolute; top: 0px; bottom: 0px; right: 0px; left: 0px; background: #111; display: none;}
 #f19, #f20, #f21, #f22 {position: absolute; top: 0px; bottom: 0px; right: 0px; left: 0px; background: #111; display: none; align-items: center; justify-content: center; flex-direction: column;}
@@ -101,7 +101,7 @@ h2 {
 
 .img1 {width: 200px; height: 200px; background: url(https://i.pinimg.com/736x/35/aa/a6/35aaa601ad62eb5a95af7d929ace8aaf.jpg); background-size: cover;}
 
-#ico {position: absolute; bottom: 5px; left: 360px; width: 130px; height: 130px; background: url(https://i.imgur.com/5emD6mI.png); background-size: 100%;}
+#ico {position: absolute; bottom: 5px; left: 360px; width: 130px; height: 130px; background: url(blob:https://ar.pinterest.com/6a72a882-8b6b-43c3-bf26-5253099fd685); background-size: 100%;}
 /* The typing effect */
 @keyframes typing {
   from { width: 0 }
