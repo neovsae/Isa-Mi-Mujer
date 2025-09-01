@@ -33,7 +33,7 @@ animation-delay: 7s;
 
 #f2, #f3, #f4, #f5, #f6 {position: absolute; width: 600px; height: 400px; display: flex; align-items: center; justify-content: center; flex-direction: column; display: none;} 
 
-#f7 {position: absolute; width: 850px; height: 550px; background: url(https://i.pinimg.com/736x/4f/76/bb/4f76bb8fe6a98cfb17ab9de4fd04f6a6.jpg); background-size: cover; display: none; align-items: center; justify-content: center; flex-direction: column;}
+#f7 {position: absolute; width: 850px; height: 550px; background: url(https://i.imgur.com/gjAR8Ip.jpeg); background-size: cover; display: none; align-items: center; justify-content: center; flex-direction: column;}
 
 #f8, #f9 {position: absolute; bottom: 150px; left: 150px; right: 150px; display: none; align-items: center; justify-content: center; flex-direction: column;}
 
@@ -52,8 +52,8 @@ font: 26px 'VT323', monospace; text-align:justify; display: none;}
 #f16 {position: absolute; top: 0px; right: 0px; left: 0px; bottom: 0px; display: none; align-items: center; justify-content: center; flex-direction: column;}
 
 #f17 {position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; display: none; align-items: center; justify-content: center; flex-direction: column;}
-.flowers {width: 150px; height: 150px;  background: url(https://i.pinimg.com/736x/48/87/99/488799053ae4019fc3a8a1e0f75f6d6b.jpg); background-size: cover;}
-.isa {width: 200px; height: 200px; background: url(https://i.pinimg.com/736x/a3/23/a2/a323a2f9e8afc458a2edbabb45cc2d4a.jpg); background-size: cover;}
+.flowers {width: 150px; height: 150px;  background: url(https://i.imgur.com/Wo1Vydm.png); background-size: cover;}
+.isa {width: 200px; height: 200px; background: url(https://i.imgur.com/LpyLdd8.png); background-size: cover;}
 
 #f18 {position: absolute; top: 0px; bottom: 0px; right: 0px; left: 0px; background: #111; display: none;}
 #f19, #f20, #f21, #f22 {position: absolute; top: 0px; bottom: 0px; right: 0px; left: 0px; background: #111; display: none; align-items: center; justify-content: center; flex-direction: column;}
